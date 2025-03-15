@@ -41,7 +41,6 @@ const Contact = () => {
                     messageSend us a messageSend us a messageSend us a messageSend us a me
                     ssageSend us a messageSend uSend us a message
                     s a messageSend us a messageSend us a messageSend us a messageSend us a message</p>
-
                 <ul>
                     <li><img src={mail_icon} alt="" /> Contact@asidjaidij@gmai.cov</li>
                     <li><img src={phone_icon} alt="" /> +23 123 123 123</li>
