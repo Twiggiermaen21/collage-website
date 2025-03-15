@@ -1,17 +1,17 @@
 import React from 'react'
 import './About.css'
-import about_img from '../../assets/about.jpg'
+import about_img from '../../assets/about.png'
 import play_icon from '../../assets/play-icon.png'
 const About = () => {
     return (
         <div className='about'>
-            <div className="bout-left">
+            <div className="about-left">
                 <img src={about_img} alt="" className='about-img' />
                 <img src={play_icon} alt="" className='play_icon' />
             </div>
             <div className="about-right">
                 <h3>ABOUT UNIVERSITY</h3>
-                <h2> nuruawr kasdjakw dkawj kdjk awd </h2>
+                <h2> PTnuruawr kasdjakw dkawj kdjk awd </h2>
                 <p>   adssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
                     asddddddddddddddddddddddddddddddddddddddddd
                     asdddddddddddddddddddddddddddddddddddddddddasd
@@ -23,17 +23,14 @@ const About = () => {
                 <p> adssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
                     asddddddddddddddddddddddddddddddddddddddddd
                     asdddddddddddddddddddddddddddddddddddddddddasd
-                    saddddddddddddddddddddddddd
-                    adssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+                    saddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
                     asddddddddddddddddddddddddddddddddddddddddd
                     asdddddddddddddddddddddddddddddddddddddddddasd
                     saddddddddddddddddddddddddd</p>
                 <p> adssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
                     asddddddddddddddddddddddddddddddddddddddddd
                     asdddddddddddddddddddddddddddddddddddddddddasd
-                    saddddddddddddddddddddddddd
-                    adssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-                    asddddddddddddddddddddddddddddddddddddddddd
+                    sad
                     asdddddddddddddddddddddddddddddddddddddddddasd
                     saddddddddddddddddddddddddd</p>
             </div>
