@@ -34,14 +34,11 @@ const Testimonials = () => {
                             <div className="user-info">
                                 <img src={user_1} alt="" />
                                 <div>
-                                    <h3>John Doe</h3>
+                                    <h3> Anna Kowalska</h3>
                                     <span>Edusity, USA</span>
                                 </div>
                             </div>
-                            <p>back-btn sdadasdasjd akjsdback-btn sdadasdasjd akjsd
-                                back-btn sdadasdasjd akjsd back-btn sdadasdasjd akjsd
-                                back-btn sdadasdasjd akjsd
-                                back-btn sdadasdasjd akjsd back-btn sdadasdasjd akjsd  </p>
+                            <p>The university provided me with a solid foundation for my career. The professors are incredibly supportive, and the hands-on experience I gained through internships was invaluable, practical, and inspiring.</p>
                         </div>
                     </li>
                     <li>
@@ -49,14 +46,11 @@ const Testimonials = () => {
                             <div className="user-info">
                                 <img src={user_2} alt="" />
                                 <div>
-                                    <h3>John Doe</h3>
-                                    <span>Edusity, USA</span>
+                                    <h3>Michael Johnson</h3>
+                                    <span>Global University, Canada</span>
                                 </div>
                             </div>
-                            <p>back-btn sdadasdasjd akjsdback-btn sdadasdasjd akjsd
-                                back-btn sdadasdasjd akjsd back-btn sdadasdasjd akjsd
-                                back-btn sdadasdasjd akjsd
-                                back-btn sdadasdasjd akjsd back-btn sdadasdasjd akjsd  </p>
+                            <p>A place where ideas thrive! I’ve been able to explore my passions while gaining knowledge that directly applies to the industry. The international student community makes it feel like home.</p>
                         </div>
                     </li>
                     <li>
@@ -64,14 +58,11 @@ const Testimonials = () => {
                             <div className="user-info">
                                 <img src={user_3} alt="" />
                                 <div>
-                                    <h3>John Doe</h3>
-                                    <span>Edusity, USA</span>
+                                    <h3>Emily Davis</h3>
+                                    <span>Innovation College, Australia</span>
                                 </div>
                             </div>
-                            <p>back-btn sdadasdasjd akjsdback-btn sdadasdasjd akjsd
-                                back-btn sdadasdasjd akjsd back-btn sdadasdasjd akjsd
-                                back-btn sdadasdasjd akjsd
-                                back-btn sdadasdasjd akjsd back-btn sdadasdasjd akjsd  </p>
+                            <p>What I love most is how the university emphasizes both personal growth and academic excellence. The campus is full of opportunities to learn and collaborate with diverse, like-minded individuals.</p>
                         </div>
                     </li>
                     <li>
@@ -79,14 +70,11 @@ const Testimonials = () => {
                             <div className="user-info">
                                 <img src={user_4} alt="" />
                                 <div>
-                                    <h3>John Doe</h3>
-                                    <span>Edusity, USA</span>
+                                    <h3>David Lee</h3>
+                                    <span>Future Horizons University, Germany</span>
                                 </div>
                             </div>
-                            <p>back-btn sdadasdasjd akjsdback-btn sdadasdasjd akjsd
-                                back-btn sdadasdasjd akjsd back-btn sdadasdasjd akjsd b
-                                ack-btn sdadasdasjd akjsd
-                                back-btn sdadasdasjd akjsd back-btn sdadasdasjd akjsd  </p>
+                            <p>The support from the faculty and the resources available made my learning experience truly enriching. I feel confident stepping into the professional world thanks to the skills and connections I’ve built here.</p>
                         </div>
                     </li>
                 </ul>

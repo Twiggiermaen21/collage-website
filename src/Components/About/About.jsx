@@ -13,28 +13,11 @@ const About = ({ setPlayState }) => {
             </div>
             <div className="about-right">
                 <h3>ABOUT UNIVERSITY</h3>
-                <h2> PTnuruawr kasdjakw dkawj kdjk awd </h2>
-                <p>   adssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-                    asddddddddddddddddddddddddddddddddddddddddd
-                    asdddddddddddddddddddddddddddddddddddddddddasd
-                    saddddddddddddddddddddddddd adssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-                    asddddddddddddddddddddddddddddddddddddddddd
-                    asdddddddddddddddddddddddddddddddddddddddddasd
-                    saddddddddddddddddddddddddd
+                <h2> Shaping the future through knowledge. </h2>
+                <p>  Our university is a place of innovation, knowledge, and endless opportunities. Here, students gain not only theoretical expertise but also practical skills essential for their future careers.
                 </p>
-                <p> adssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-                    asddddddddddddddddddddddddddddddddddddddddd
-                    asdddddddddddddddddddddddddddddddddddddddddasd
-                    saddsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-                    asddddddddddddddddddddddddddddddddddddddddd
-                    asdddddddddddddddddddddddddddddddddddddddddasd
-                    saddddddddddddddddddddddddd</p>
-                <p> adssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
-                    asddddddddddddddddddddddddddddddddddddddddd
-                    asdddddddddddddddddddddddddddddddddddddddddasd
-                    sad
-                    asdddddddddddddddddddddddddddddddddddddddddasd
-                    saddddddddddddddddddddddddd</p>
+                <p> With a diverse and dynamic academic environment, we offer modern study programs, international collaborations, and hands-on experience through internships and research projects. Our goal is to inspire, educate, and empower the next generation of leaders and professionals.</p>
+                <p> Join us and be part of a vibrant community where learning meets ambition!</p>
             </div>
         </div>
     )

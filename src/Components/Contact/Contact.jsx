@@ -37,10 +37,9 @@ const Contact = () => {
         <div className='contact'>
             <div className="contact-col">
                 <h3>Send us a message <img src={msg_icon} alt="" /></h3>
-                <p> Send us a messageSend us a messageSend us a
-                    messageSend us a messageSend us a messageSend us a messageSend us a me
-                    ssageSend us a messageSend uSend us a message
-                    s a messageSend us a messageSend us a messageSend us a messageSend us a message</p>
+                <p> Have any questions or need more information? Feel free to reach out to us, and we'll get back to you as soon as possible.
+
+                    Send us a message and let's connect!</p>
                 <ul>
                     <li><img src={mail_icon} alt="" /> Contact@asidjaidij@gmai.cov</li>
                     <li><img src={phone_icon} alt="" /> +23 123 123 123</li>

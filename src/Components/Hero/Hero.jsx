@@ -7,10 +7,8 @@ const Hero = () => {
         <div className='hero container'>
 
             <div className="hero-text">
-                <h1>We dasdasdasdasdsa</h1>
-                <p> sasdhausd ajisdjais daisdoj aisd aisdj asidj aisdiasdiasidjiad
-                    daidojaoidjaisdjioasdjiaidiadioasdisaid  ajisdjiad
-                    siadiaodiaiodjaioisadj </p>
+                <h1> Your future starts here! 🚀</h1>
+                <p> Click the button below and join us to gain knowledge, develop your passions, and open the door to your career! </p>
                 <button className='btn'>Explore more <img src={dark_arrow} alt="" /></button>
 
             </div>
