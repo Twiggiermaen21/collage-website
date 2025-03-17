@@ -96,6 +96,7 @@
 
 }
 
+/*  media query */
 @media (max-width: 600px) {
     .user-info {
         display: block;
