@@ -10,11 +10,8 @@ const Hero = () => {
                 <h1> Your future starts here! 🚀</h1>
                 <p> Click the button below and join us to gain knowledge, develop your passions, and open the door to your career! </p>
                 <button className='btn'>Explore more <img src={dark_arrow} alt="" /></button>
-
             </div>
-
         </div>
     )
 }
-
 export default Hero
